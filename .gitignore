@@ -1,0 +1,12 @@
+# Archivos temporales de Roblox Studio
+*.rbxl.lock
+*.rbxlx.lock
+
+# Archivos temporales del servidor local de scripts
+scripts/tools/drop/
+__pycache__/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
