@@ -1,0 +1,623 @@
+{
+  "prompt": 14,
+  "coordinate_space": "Rocket root: +Y arriba, frente -Z",
+  "units": "meters",
+  "studs_per_meter": 3.571428571428571,
+  "root_pivot_m": [
+    0,
+    0,
+    0
+  ],
+  "animations_baked": false,
+  "rockets": {
+    "comun": {
+      "fbx": "rocket_comun.fbx",
+      "source_blend": "rocket_comun.blend",
+      "texture": "rocket_comun_atlas.png",
+      "height_m": 2.8,
+      "size_m": [
+        2.03,
+        2.8,
+        1.5631
+      ],
+      "triangles": 3782,
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 1184,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 440,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_recommended_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "nozzles_m": [
+        [
+          0.0,
+          -1.4,
+          0.0
+        ]
+      ],
+      "fire_attachments_recommended_m": [
+        [
+          0.0,
+          -1.41,
+          0.0
+        ]
+      ],
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "fire_colors_hex": [
+        "#FFD951",
+        "#FF963C"
+      ],
+      "trail_A_m": [
+        -0.24,
+        -1.38,
+        0
+      ],
+      "trail_B_m": [
+        0.24,
+        -1.38,
+        0
+      ],
+      "idle": {
+        "target": "Rocket root",
+        "rotation_axis": "Z",
+        "rotation_amplitude_deg": 2,
+        "vertical_amplitude_m": 0.025,
+        "period_s": 2.6,
+        "loop": true,
+        "when": "reposo; offset visual, no modificar la trayectoria física"
+      }
+    },
+    "raro": {
+      "fbx": "rocket_raro.fbx",
+      "source_blend": "rocket_raro.blend",
+      "texture": "rocket_raro_atlas.png",
+      "height_m": 2.8,
+      "size_m": [
+        2.139542,
+        2.8,
+        1.5631
+      ],
+      "triangles": 3710,
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 1112,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 440,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_recommended_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "nozzles_m": [
+        [
+          0.0,
+          -1.4,
+          0.0
+        ]
+      ],
+      "fire_attachments_recommended_m": [
+        [
+          0.0,
+          -1.41,
+          0.0
+        ]
+      ],
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "fire_colors_hex": [
+        "#66FFE3",
+        "#25CFF4"
+      ],
+      "trail_A_m": [
+        -0.24,
+        -1.38,
+        0
+      ],
+      "trail_B_m": [
+        0.24,
+        -1.38,
+        0
+      ],
+      "idle": {
+        "target": "Rocket root",
+        "rotation_axis": "Z",
+        "rotation_amplitude_deg": 2,
+        "vertical_amplitude_m": 0.025,
+        "period_s": 2.6,
+        "loop": true,
+        "when": "reposo; offset visual, no modificar la trayectoria física"
+      }
+    },
+    "epico": {
+      "fbx": "rocket_epico.fbx",
+      "source_blend": "rocket_epico.blend",
+      "texture": "rocket_epico_atlas.png",
+      "height_m": 2.8,
+      "size_m": [
+        2.03,
+        2.8,
+        1.5631
+      ],
+      "triangles": 4222,
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 1184,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 880,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_recommended_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "nozzles_m": [
+        [
+          -0.205,
+          -1.4,
+          0.0
+        ],
+        [
+          0.205,
+          -1.4,
+          0.0
+        ]
+      ],
+      "fire_attachments_recommended_m": [
+        [
+          -0.205,
+          -1.41,
+          0.0
+        ],
+        [
+          0.205,
+          -1.41,
+          0.0
+        ]
+      ],
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "fire_colors_hex": [
+        "#FFF477",
+        "#B05CFF"
+      ],
+      "trail_A_m": [
+        -0.34,
+        -1.38,
+        0
+      ],
+      "trail_B_m": [
+        0.34,
+        -1.38,
+        0
+      ],
+      "idle": {
+        "target": "Rocket root",
+        "rotation_axis": "Z",
+        "rotation_amplitude_deg": 2,
+        "vertical_amplitude_m": 0.025,
+        "period_s": 2.6,
+        "loop": true,
+        "when": "reposo; offset visual, no modificar la trayectoria física"
+      }
+    },
+    "legendario": {
+      "fbx": "rocket_legendario.fbx",
+      "source_blend": "rocket_legendario.blend",
+      "texture": "rocket_legendario_atlas.png",
+      "height_m": 2.8,
+      "size_m": [
+        2.3,
+        2.8,
+        1.5631
+      ],
+      "triangles": 4398,
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 592,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 440,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "WingLeft",
+          "triangles": 604,
+          "pivot_m": [
+            -0.46,
+            -0.54,
+            0.0
+          ]
+        },
+        {
+          "name": "WingRight",
+          "triangles": 604,
+          "pivot_m": [
+            0.46,
+            -0.54,
+            0.0
+          ]
+        }
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_recommended_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "nozzles_m": [
+        [
+          0.0,
+          -1.4,
+          0.0
+        ]
+      ],
+      "fire_attachments_recommended_m": [
+        [
+          0.0,
+          -1.41,
+          0.0
+        ]
+      ],
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "fire_colors_hex": [
+        "#C7FAFF",
+        "#26CFFF",
+        "#2D6BFF"
+      ],
+      "trail_A_m": [
+        -0.24,
+        -1.38,
+        0
+      ],
+      "trail_B_m": [
+        0.24,
+        -1.38,
+        0
+      ],
+      "idle": {
+        "target": "Rocket root",
+        "rotation_axis": "Z",
+        "rotation_amplitude_deg": 2,
+        "vertical_amplitude_m": 0.025,
+        "period_s": 2.6,
+        "loop": true,
+        "when": "reposo; offset visual, no modificar la trayectoria física"
+      },
+      "wing_animation": {
+        "axis_in_root_space": "Y",
+        "amplitude_deg": 15,
+        "period_s": 0.6,
+        "left_phase_sign": -1,
+        "right_phase_sign": 1,
+        "when": "vuelo",
+        "loop": true,
+        "hinge_left_m": [
+          -0.46,
+          -0.54,
+          0
+        ],
+        "hinge_right_m": [
+          0.46,
+          -0.54,
+          0
+        ]
+      }
+    },
+    "mitico": {
+      "fbx": "rocket_mitico.fbx",
+      "source_blend": "rocket_mitico.blend",
+      "texture": "rocket_mitico_atlas.png",
+      "height_m": 2.8,
+      "size_m": [
+        2.182992,
+        2.8,
+        2.26
+      ],
+      "triangles": 4806,
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 1184,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 440,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Ring",
+          "triangles": 1024,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_recommended_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "nozzles_m": [
+        [
+          0.0,
+          -1.4,
+          0.0
+        ]
+      ],
+      "fire_attachments_recommended_m": [
+        [
+          0.0,
+          -1.41,
+          0.0
+        ]
+      ],
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "fire_colors_hex": [
+        "#FF516B",
+        "#FFAE43",
+        "#FFE45C",
+        "#69EF8B",
+        "#43D9FF",
+        "#4777FF",
+        "#B16AFF"
+      ],
+      "trail_A_m": [
+        -0.24,
+        -1.38,
+        0
+      ],
+      "trail_B_m": [
+        0.24,
+        -1.38,
+        0
+      ],
+      "idle": {
+        "target": "Rocket root",
+        "rotation_axis": "Z",
+        "rotation_amplitude_deg": 2,
+        "vertical_amplitude_m": 0.025,
+        "period_s": 2.6,
+        "loop": true,
+        "when": "reposo; offset visual, no modificar la trayectoria física"
+      },
+      "ring_animation": {
+        "axis_in_root_space": "Y",
+        "degrees_per_cycle": 360,
+        "period_s": 3,
+        "pivot_m": [
+          0,
+          0,
+          0
+        ],
+        "when": "cohete visible",
+        "loop": true
+      }
+    }
+  }
+}

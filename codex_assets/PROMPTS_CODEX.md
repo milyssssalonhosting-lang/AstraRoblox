@@ -331,3 +331,41 @@ cráteres a lo lejos), Marte (rojo-naranja con polvo), Galaxia (morado/rosa con 
 pintado y saturado como las referencias 04 y 05, sin planetas reales con marcas. Nombra
 sky_<capa>_<cara>.png y agrega una vista previa de cada cielo.
 ```
+
+---
+
+## Prompt 14 — Cohetes 3D reales (mallas) + piezas para animar — agregado 2026-10-21
+
+```
+Usa como referencia EXACTA tu entrega 2026-10-21_linea-cohetes (lineup y las 5 hojas turnaround,
+con sus HEX). Ahora quiero los 5 cohetes como MODELOS 3D de verdad para Roblox, no imágenes.
+
+QUÉ ENTREGAR (carpeta codex_assets/<fecha>_cohetes-3d/):
+- Por cada cohete (comun, raro, epico, legendario, mitico) un archivo .fbx (o .obj + .mtl si no
+  puedes FBX) exportado DE VERDAD y abierto/verificado por ti (conteo de triángulos, escala, pivote).
+  Si tienes Blender disponible, usa un script de Blender en Python (inclúyelo: build_rockets.py);
+  si no, genera las mallas con Python (trimesh/numpy) y expórtalas. No entregues solo el script.
+- Estilo low-poly suave tipo juguete (cuerpo gordito tipo cápsula, ventana redonda al frente con aro
+  plateado, aletas redondeadas), igual que las hojas. Menos de 6,000 triángulos por cohete.
+- Colores: UNA textura atlas PNG 1024x1024 por cohete (rocket_<rareza>_atlas.png) con UVs, o colores
+  por material planos. Los dibujos (estrellas, luna, rayos, alas, galaxia) pintados en la textura.
+- Escala/orientación: alto total 2.8 m (≈10 studs), punta hacia +Y, ventana (frente) hacia -Z,
+  pivote en el centro geométrico. Unidades en metros.
+
+PIEZAS SEPARADAS (objetos/mallas aparte, para que Claude las anime en Roblox):
+- Body (cuerpo + nariz), Fins (aletas), Window (cristal), Nozzle (tobera; Épico tiene 2).
+- Legendario (Fénix): WingLeft y WingRight separadas, con su pivote en la unión con el cuerpo
+  (se van a aletear).
+- Mítico (Galáctico): Ring (anillo tipo Saturno) separado, pivote en el centro del cohete (va a girar),
+  sin tocar el casco ni tapar la ventana.
+- Deja libre el frente de la ventana: ahí va el slime piloto.
+
+ANIMACIÓN (no hagas keyframes; descríbela en NOTAS.md y Claude la programa):
+- Por cada pieza animada: eje, ángulo/velocidad y ritmo (ej. Ring gira 360° cada 3 s en Y;
+  alas aletean ±15° cada 0.6 s). Más un "idle" general (balanceo suave del cohete).
+- Dónde salen el fuego y la estela: posición de cada tobera en metros respecto al pivote.
+
+NOTAS.md: tabla por cohete con triángulos, tamaño en metros, piezas, posiciones de toberas y de la
+ventana, y la descripción de animación. Incluye una imagen de vista previa render de cada cohete
+(3/4) para comparar con las hojas. Sin scripts escondidos, sin logos ni marcas.
+```

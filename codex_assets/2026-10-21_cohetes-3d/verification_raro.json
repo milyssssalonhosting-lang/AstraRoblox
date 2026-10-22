@@ -1,0 +1,104 @@
+{
+  "triangles": 3710,
+  "bounds_min_m": [
+    -1.069771,
+    -1.4,
+    -0.78155
+  ],
+  "bounds_max_m": [
+    1.069771,
+    1.4,
+    0.78155
+  ],
+  "size_m": [
+    2.139542,
+    2.8,
+    1.5631
+  ],
+  "bounds_center_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "fbx_version": 7400,
+  "fbx_axes_units": {
+    "UpAxis": 1,
+    "UpAxisSign": 1,
+    "FrontAxis": 2,
+    "FrontAxisSign": 1,
+    "UnitScaleFactor": 100.0
+  },
+  "nozzles_m": [
+    [
+      0.0,
+      -1.4,
+      0.0
+    ]
+  ],
+  "nozzle_components_verified": 1,
+  "fire_direction": [
+    0,
+    -1,
+    0
+  ],
+  "window_center_m": [
+    0.0,
+    0.2,
+    -0.617
+  ],
+  "window_front_m": [
+    0.0,
+    0.2,
+    -0.697
+  ],
+  "pilot_clearance_center_m": [
+    0,
+    0.2,
+    -0.87
+  ],
+  "pieces": [
+    {
+      "name": "Body",
+      "triangles": 1726,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Fins",
+      "triangles": 1112,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Nozzle",
+      "triangles": 440,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Window",
+      "triangles": 432,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "fbx_reimport_verified": true,
+  "texture_size": [
+    1024,
+    1024
+  ],
+  "fbx_sha256": "41b00c25db6414391b6e48a8c614ff6b79082544c1c7bf735a281230e6ec6eac",
+  "atlas_sha256": "d0b01304c6901c46352af745dd8a52230142a667e62a4ed0e7d565f297773102"
+}

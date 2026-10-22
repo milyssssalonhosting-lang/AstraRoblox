@@ -1,0 +1,565 @@
+{
+  "tool": "Blender 4.3.2",
+  "prompt": 14,
+  "units": "meters",
+  "fbx_up": "+Y",
+  "fbx_front": "-Z",
+  "render_source": "FBX reimportado",
+  "roblox_studio_import_tested": false,
+  "rockets": {
+    "comun": {
+      "triangles": 3782,
+      "bounds_min_m": [
+        -1.015,
+        -1.4,
+        -0.78155
+      ],
+      "bounds_max_m": [
+        1.015,
+        1.4,
+        0.78155
+      ],
+      "size_m": [
+        2.03,
+        2.8,
+        1.5631
+      ],
+      "bounds_center_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fbx_version": 7400,
+      "fbx_axes_units": {
+        "UpAxis": 1,
+        "UpAxisSign": 1,
+        "FrontAxis": 2,
+        "FrontAxisSign": 1,
+        "UnitScaleFactor": 100.0
+      },
+      "nozzles_m": [
+        [
+          0.0,
+          -1.4,
+          0.0
+        ]
+      ],
+      "nozzle_components_verified": 1,
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_clearance_center_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 1184,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 440,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "fbx_reimport_verified": true,
+      "texture_size": [
+        1024,
+        1024
+      ],
+      "fbx_sha256": "0f4d8f0926146b53b20a282d5d134605c8018aeacaa3fc159ba10f0f17f02f74",
+      "atlas_sha256": "cbf0367bdc5587e6e851006e3b05738db216585e26a7ff1b56d870d326fd18a1"
+    },
+    "raro": {
+      "triangles": 3710,
+      "bounds_min_m": [
+        -1.069771,
+        -1.4,
+        -0.78155
+      ],
+      "bounds_max_m": [
+        1.069771,
+        1.4,
+        0.78155
+      ],
+      "size_m": [
+        2.139542,
+        2.8,
+        1.5631
+      ],
+      "bounds_center_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fbx_version": 7400,
+      "fbx_axes_units": {
+        "UpAxis": 1,
+        "UpAxisSign": 1,
+        "FrontAxis": 2,
+        "FrontAxisSign": 1,
+        "UnitScaleFactor": 100.0
+      },
+      "nozzles_m": [
+        [
+          0.0,
+          -1.4,
+          0.0
+        ]
+      ],
+      "nozzle_components_verified": 1,
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_clearance_center_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 1112,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 440,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "fbx_reimport_verified": true,
+      "texture_size": [
+        1024,
+        1024
+      ],
+      "fbx_sha256": "41b00c25db6414391b6e48a8c614ff6b79082544c1c7bf735a281230e6ec6eac",
+      "atlas_sha256": "d0b01304c6901c46352af745dd8a52230142a667e62a4ed0e7d565f297773102"
+    },
+    "epico": {
+      "triangles": 4222,
+      "bounds_min_m": [
+        -1.015,
+        -1.4,
+        -0.78155
+      ],
+      "bounds_max_m": [
+        1.015,
+        1.4,
+        0.78155
+      ],
+      "size_m": [
+        2.03,
+        2.8,
+        1.5631
+      ],
+      "bounds_center_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fbx_version": 7400,
+      "fbx_axes_units": {
+        "UpAxis": 1,
+        "UpAxisSign": 1,
+        "FrontAxis": 2,
+        "FrontAxisSign": 1,
+        "UnitScaleFactor": 100.0
+      },
+      "nozzles_m": [
+        [
+          -0.205,
+          -1.4,
+          0.0
+        ],
+        [
+          0.205,
+          -1.4,
+          0.0
+        ]
+      ],
+      "nozzle_components_verified": 2,
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_clearance_center_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 1184,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 880,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "fbx_reimport_verified": true,
+      "texture_size": [
+        1024,
+        1024
+      ],
+      "fbx_sha256": "4b0a0bf8783e4ece5c5d7b212ef306d3dcf3dc163f735dde3f2f4f076b941005",
+      "atlas_sha256": "a033f3149c98fd74b58286c8a9d525ad24bc30ebfc2020c7d199bcd413e78649"
+    },
+    "legendario": {
+      "triangles": 4398,
+      "bounds_min_m": [
+        -1.15,
+        -1.4,
+        -0.78155
+      ],
+      "bounds_max_m": [
+        1.15,
+        1.4,
+        0.78155
+      ],
+      "size_m": [
+        2.3,
+        2.8,
+        1.5631
+      ],
+      "bounds_center_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fbx_version": 7400,
+      "fbx_axes_units": {
+        "UpAxis": 1,
+        "UpAxisSign": 1,
+        "FrontAxis": 2,
+        "FrontAxisSign": 1,
+        "UnitScaleFactor": 100.0
+      },
+      "nozzles_m": [
+        [
+          0.0,
+          -1.4,
+          0.0
+        ]
+      ],
+      "nozzle_components_verified": 1,
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_clearance_center_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 592,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 440,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "WingLeft",
+          "triangles": 604,
+          "pivot_m": [
+            -0.46,
+            -0.54,
+            0.0
+          ]
+        },
+        {
+          "name": "WingRight",
+          "triangles": 604,
+          "pivot_m": [
+            0.46,
+            -0.54,
+            0.0
+          ]
+        }
+      ],
+      "fbx_reimport_verified": true,
+      "texture_size": [
+        1024,
+        1024
+      ],
+      "fbx_sha256": "5f0fa1de223174e99c12df7ba4b93c6580e92ca616168d53196a9f8b25ec576e",
+      "atlas_sha256": "1b51bcaea7498580a53d49402d085a62ce8cc11343845822cdd13c8083f9c6d2"
+    },
+    "mitico": {
+      "triangles": 4806,
+      "bounds_min_m": [
+        -1.091496,
+        -1.4,
+        -1.13
+      ],
+      "bounds_max_m": [
+        1.091496,
+        1.4,
+        1.13
+      ],
+      "size_m": [
+        2.182992,
+        2.8,
+        2.26
+      ],
+      "bounds_center_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "fbx_version": 7400,
+      "fbx_axes_units": {
+        "UpAxis": 1,
+        "UpAxisSign": 1,
+        "FrontAxis": 2,
+        "FrontAxisSign": 1,
+        "UnitScaleFactor": 100.0
+      },
+      "nozzles_m": [
+        [
+          0.0,
+          -1.4,
+          0.0
+        ]
+      ],
+      "nozzle_components_verified": 1,
+      "fire_direction": [
+        0,
+        -1,
+        0
+      ],
+      "window_center_m": [
+        0.0,
+        0.2,
+        -0.617
+      ],
+      "window_front_m": [
+        0.0,
+        0.2,
+        -0.697
+      ],
+      "pilot_clearance_center_m": [
+        0,
+        0.2,
+        -0.87
+      ],
+      "ring_body_min_clearance_m": 0.429618,
+      "ring_window_vertical_clearance_m": 0.147786,
+      "pieces": [
+        {
+          "name": "Body",
+          "triangles": 1726,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Fins",
+          "triangles": 1184,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Nozzle",
+          "triangles": 440,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Ring",
+          "triangles": 1024,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "name": "Window",
+          "triangles": 432,
+          "pivot_m": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "fbx_reimport_verified": true,
+      "texture_size": [
+        1024,
+        1024
+      ],
+      "fbx_sha256": "167e9c88b157af7c0bbf23437f744ffe4df9afb69b979e4a309c8a34fd377d3d",
+      "atlas_sha256": "de8dca403a60ed544e93aaca24d9bae4d49e55a37f58ab1e006f8f83df1c11a6"
+    }
+  }
+}

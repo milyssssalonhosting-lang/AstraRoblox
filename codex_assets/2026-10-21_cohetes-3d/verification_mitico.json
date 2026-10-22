@@ -1,0 +1,115 @@
+{
+  "triangles": 4806,
+  "bounds_min_m": [
+    -1.091496,
+    -1.4,
+    -1.13
+  ],
+  "bounds_max_m": [
+    1.091496,
+    1.4,
+    1.13
+  ],
+  "size_m": [
+    2.182992,
+    2.8,
+    2.26
+  ],
+  "bounds_center_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "fbx_version": 7400,
+  "fbx_axes_units": {
+    "UpAxis": 1,
+    "UpAxisSign": 1,
+    "FrontAxis": 2,
+    "FrontAxisSign": 1,
+    "UnitScaleFactor": 100.0
+  },
+  "nozzles_m": [
+    [
+      0.0,
+      -1.4,
+      0.0
+    ]
+  ],
+  "nozzle_components_verified": 1,
+  "fire_direction": [
+    0,
+    -1,
+    0
+  ],
+  "window_center_m": [
+    0.0,
+    0.2,
+    -0.617
+  ],
+  "window_front_m": [
+    0.0,
+    0.2,
+    -0.697
+  ],
+  "pilot_clearance_center_m": [
+    0,
+    0.2,
+    -0.87
+  ],
+  "ring_body_min_clearance_m": 0.429618,
+  "ring_window_vertical_clearance_m": 0.147786,
+  "pieces": [
+    {
+      "name": "Body",
+      "triangles": 1726,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Fins",
+      "triangles": 1184,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Nozzle",
+      "triangles": 440,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Ring",
+      "triangles": 1024,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Window",
+      "triangles": 432,
+      "pivot_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "fbx_reimport_verified": true,
+  "texture_size": [
+    1024,
+    1024
+  ],
+  "fbx_sha256": "167e9c88b157af7c0bbf23437f744ffe4df9afb69b979e4a309c8a34fd377d3d",
+  "atlas_sha256": "de8dca403a60ed544e93aaca24d9bae4d49e55a37f58ab1e006f8f83df1c11a6"
+}
