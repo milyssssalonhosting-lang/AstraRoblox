@@ -1,0 +1,355 @@
+{
+  "prompt": 8,
+  "status": "assets_verified_mockup_pending",
+  "mockup_on_game_screenshot": "pending",
+  "files": [
+    {
+      "file": "fx_glow_cyan.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 253,
+      "fully_transparent_fraction": 0.47227,
+      "sha256": "01f875abbf1cecb7e5f2ca25d602ad8b635b4fe5309d0b68f1b1107a4bf8d216"
+    },
+    {
+      "file": "fx_glow_gold.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 253,
+      "fully_transparent_fraction": 0.46967,
+      "sha256": "a252eb91adb924510c5265e7b8433d2fec41b0a241d7dbddaab32b9ad57d9ca2"
+    },
+    {
+      "file": "fx_rays.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 254,
+      "fully_transparent_fraction": 0.56018,
+      "sha256": "c27a74841af1fa2765502065f17f2161947f7b7fd09b6882b89895c3f7331767"
+    },
+    {
+      "file": "fx_sparkle.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 253,
+      "fully_transparent_fraction": 0.73056,
+      "sha256": "9710177b042688339a270df52a9eedbdd09e95c78da53aa17e37c62e7aa8ccef"
+    },
+    {
+      "file": "icon_auto.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.58802,
+      "sha256": "abf5b8db5f9043408ebed0ffbc67c49ab267f371071f5e5060f93d9043b9e834"
+    },
+    {
+      "file": "icon_close.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.48497,
+      "sha256": "1e231f08bb571b16052fa5e8a9ef2aa801218af4d925b53e2891736ccc4e7e1f"
+    },
+    {
+      "file": "icon_codes.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.54175,
+      "sha256": "ee0fd476f6de880c9ebf1b66e8f0b7c59217ae59e243765d99d9197ccc43b9df"
+    },
+    {
+      "file": "icon_daily_rewards.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.45031,
+      "sha256": "862326c8b57bc657a9c02c55bc51339e598d62cff59031430992b376cbbe8b5d"
+    },
+    {
+      "file": "icon_friends.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.52007,
+      "sha256": "b7636c80f872d89a7d58d8399bb04396d552b681a1ac3272a3de731cec1150af"
+    },
+    {
+      "file": "icon_fuel.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.58809,
+      "sha256": "7a9becfadc8cf77dcb9666ab622d91fd7e5f85688c4dcfe2c06689e0a64634ed"
+    },
+    {
+      "file": "icon_gem.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.5913,
+      "sha256": "6fa2fa2f5b762b4818b5f4a9c6cd046d058e1ad3a7a684c6b7ec493c4aebf7c9"
+    },
+    {
+      "file": "icon_index.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.56118,
+      "sha256": "421a3d76b306c6f7ad407969bdf4ca69629e89ae2bd336a43cc5c45243cb151e"
+    },
+    {
+      "file": "icon_inventory.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.43698,
+      "sha256": "3def84f67d02a87892e58119cd9880d7579316e6d13399ce63cf5935be793573"
+    },
+    {
+      "file": "icon_magnet.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.56107,
+      "sha256": "4e6c36a244b84bde3e3f1a71a9be88865523f0d7123dfbd31157e2d6393092d3"
+    },
+    {
+      "file": "icon_meteor.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.52856,
+      "sha256": "34dec4f53e381d70704a0de1115d552bfb56c96a2860e0b919a00b8ba9c6fba7"
+    },
+    {
+      "file": "icon_missions.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.43322,
+      "sha256": "825d463e406b2c6fc632e1c0e6105eb23761b56ecfcf8f987fd5228b5ed53dfc"
+    },
+    {
+      "file": "icon_money.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.45026,
+      "sha256": "b3ab1b137990de06d905f34fa48033fb2e1e2928b57a6877093eeb115ed6b693"
+    },
+    {
+      "file": "icon_nuclear.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.6096,
+      "sha256": "2bbec04bcb082cefe0f26a8452597dbb56275092e34e352729dea462ffbbeca9"
+    },
+    {
+      "file": "icon_pass.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.5427,
+      "sha256": "5c9e2e0cb4aff1ea1869c93675e2c815221361232d2d9ce71c97965f38e94fe4"
+    },
+    {
+      "file": "icon_paw.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.45337,
+      "sha256": "af832b58ac9e744ba0136a3aa42fa88afd462667ffaa11e021bdf3f68d11e227"
+    },
+    {
+      "file": "icon_rebirth.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.49442,
+      "sha256": "8d02f91e50e4f9eec8cb26e56fef7ee1ffbcd4cba53e8b3f5777ee8a4cc312e6"
+    },
+    {
+      "file": "icon_rocket.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.56367,
+      "sha256": "07843a48c8380e9e4dfd510276adbb674353eb62111459eb7d84d3cddc44c762"
+    },
+    {
+      "file": "icon_settings.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.49844,
+      "sha256": "d9b16b605d2f7a40119350e9f4422f41ba01a331ffa8ec9ce1a91a4a4828a751"
+    },
+    {
+      "file": "icon_shop.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.50684,
+      "sha256": "be6eb6244d0a11b8c9f050b2c4dfba1c33be2a4a427217c91b1f776aeabe8ab5"
+    },
+    {
+      "file": "icon_tap.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.60237,
+      "sha256": "50507f42a7a2f5737d842bfa8914685051e43bc69ca211c0cea5ee5eb1dd862e"
+    },
+    {
+      "file": "icon_trophy.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.53957,
+      "sha256": "ce967889e3f0c5a70ca8ac924b4a70e292c5712765a5d493fea60a490017900e"
+    },
+    {
+      "file": "icon_turbo.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.65399,
+      "sha256": "f7a62dca5082e79b9877cea84fe1107b1195092830cb84813428afeb764c481e"
+    },
+    {
+      "file": "icon_xp.png",
+      "dimensions": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.53227,
+      "sha256": "57bf077e37fdd1b8050dd6b7b1c2b958800b08183a7645e38e38c6eb48477b14"
+    },
+    {
+      "file": "lamina_iconos.png",
+      "dimensions": [
+        1008,
+        672
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "fully_transparent_fraction": 0.60452,
+      "sha256": "a058f36d8570f4a76516f796e89e0e16e3450463fe95225f327982498bbce52c"
+    }
+  ]
+}

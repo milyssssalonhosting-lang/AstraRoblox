@@ -1,0 +1,199 @@
+{
+  "prompt": 8,
+  "title": "Íconos del HUD — Slime al Espacio",
+  "canvas": [
+    512,
+    512
+  ],
+  "anchor": [
+    0.5,
+    0.5
+  ],
+  "center_px": [
+    256,
+    256
+  ],
+  "format": "PNG RGBA",
+  "text_in_assets": false,
+  "scale_type": "Fit",
+  "slice_center": null,
+  "icons": [
+    {
+      "file": "icon_settings.png",
+      "label": "Configuración"
+    },
+    {
+      "file": "icon_daily_rewards.png",
+      "label": "Recompensas diarias"
+    },
+    {
+      "file": "icon_missions.png",
+      "label": "Misiones"
+    },
+    {
+      "file": "icon_shop.png",
+      "label": "Tienda"
+    },
+    {
+      "file": "icon_pass.png",
+      "label": "Pase de batalla"
+    },
+    {
+      "file": "icon_rebirth.png",
+      "label": "Rebirth"
+    },
+    {
+      "file": "icon_index.png",
+      "label": "Índice de mascotas"
+    },
+    {
+      "file": "icon_inventory.png",
+      "label": "Inventario"
+    },
+    {
+      "file": "icon_codes.png",
+      "label": "Códigos"
+    },
+    {
+      "file": "icon_money.png",
+      "label": "Dinero"
+    },
+    {
+      "file": "icon_gem.png",
+      "label": "Gema"
+    },
+    {
+      "file": "icon_xp.png",
+      "label": "Experiencia"
+    },
+    {
+      "file": "icon_trophy.png",
+      "label": "Trofeo y récord"
+    },
+    {
+      "file": "icon_turbo.png",
+      "label": "Turbo"
+    },
+    {
+      "file": "icon_fuel.png",
+      "label": "Combustible"
+    },
+    {
+      "file": "icon_rocket.png",
+      "label": "Velocidad del cohete"
+    },
+    {
+      "file": "icon_paw.png",
+      "label": "Mascotas"
+    },
+    {
+      "file": "icon_friends.png",
+      "label": "Amigos"
+    },
+    {
+      "file": "icon_meteor.png",
+      "label": "Meteorito"
+    },
+    {
+      "file": "icon_magnet.png",
+      "label": "Robar turbo"
+    },
+    {
+      "file": "icon_nuclear.png",
+      "label": "Bomba nuclear de juguete"
+    },
+    {
+      "file": "icon_auto.png",
+      "label": "Automático"
+    },
+    {
+      "file": "icon_tap.png",
+      "label": "Tocar para subir"
+    },
+    {
+      "file": "icon_close.png",
+      "label": "Cerrar"
+    }
+  ],
+  "overlay_layers": [
+    {
+      "file": "fx_glow_cyan.png",
+      "z": "detrás",
+      "animation": "pulso",
+      "duration_seconds": 1.6,
+      "loop": true,
+      "when": "Turbo o Auto activos",
+      "image_transparency": [
+        0.85,
+        0.55
+      ],
+      "scale": [
+        0.95,
+        1.08
+      ]
+    },
+    {
+      "file": "fx_glow_gold.png",
+      "z": "detrás",
+      "animation": "pulso",
+      "duration_seconds": 1.8,
+      "loop": true,
+      "when": "Recompensa o misión lista, récord recién logrado",
+      "image_transparency": [
+        0.85,
+        0.55
+      ],
+      "scale": [
+        0.95,
+        1.08
+      ]
+    },
+    {
+      "file": "fx_sparkle.png",
+      "z": "delante",
+      "animation": "destello",
+      "duration_seconds": 0.55,
+      "loop": false,
+      "when": "Recompensa disponible, hover o confirmación",
+      "image_transparency": [
+        1,
+        0.3,
+        1
+      ],
+      "scale": [
+        0.7,
+        1.1,
+        0.8
+      ]
+    },
+    {
+      "file": "fx_rays.png",
+      "z": "detrás",
+      "animation": "giro",
+      "duration_seconds": 12,
+      "loop": true,
+      "when": "Rebirth disponible o premio especial",
+      "rotation_degrees": [
+        0,
+        360
+      ],
+      "image_transparency": 0.7
+    }
+  ],
+  "review_sheet": {
+    "file": "lamina_iconos.png",
+    "columns": 6,
+    "rows": 4,
+    "order": "icons en el orden de este manifiesto"
+  },
+  "mockup": {
+    "status": "pending",
+    "required": "Captura original del HUD adjunta de nuevo",
+    "target_size": [
+      1920,
+      1080
+    ],
+    "note": "La lámina de revisión no sustituye al mockup sobre una captura real."
+  }
+}
+
